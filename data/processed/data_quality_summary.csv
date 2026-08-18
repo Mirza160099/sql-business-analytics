@@ -1,0 +1,5 @@
+check,count
+Duplicate order IDs,15
+Missing customer IDs,12
+Negative net revenue,0
+Net revenue greater than gross revenue,0
