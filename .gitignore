@@ -1,0 +1,17 @@
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+credentials
+secrets.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and local exports
+*.log
+exports/
