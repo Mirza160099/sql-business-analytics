@@ -1,8 +1,9 @@
 # SQL Business Analytics
 
-A recruiter-facing SQL portfolio covering **joins, CTEs, window functions, cohort analysis, ranking, customer/revenue analytics, data-quality checks, query-optimisation concepts and interview-grade scenarios**.
 
-> **Data note:** All datasets are synthetic and created for portfolio purposes.
+## Demo Preview
+
+![SQL analytics demo preview](assets/dashboard-preview.png)
 
 ## Business Context
 
